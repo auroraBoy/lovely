@@ -1,0 +1,16 @@
+{
+	"word":[{
+		 "img":"http://mraur.oss-cn-beijing.aliyuncs.com/img/word1.png",
+		 "title":"通知",
+         "txt":"首次登录成功，奖励领到手软！",
+         "time":"2016年12月20日"
+		},{
+		 "img":"http://mraur.oss-cn-beijing.aliyuncs.com/img/word2.png",
+         "title":"话题消息通知",
+         "time":"2017年1月22日"
+		},{
+		 "img":"http://mraur.oss-cn-beijing.aliyuncs.com/img/word3.png",
+         "title":"新好友通知",
+         "time":"2017年3月1日"
+		}]
+}
